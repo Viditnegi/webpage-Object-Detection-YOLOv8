@@ -1,0 +1,13 @@
+
+path: C:\Vidit\Codes\DL\Project\webpage-Object-Detection\data
+train: images/train
+weight_decay: 0.01
+val: images/val
+
+names:
+  0: logo
+  1: button
+  2: text
+  3: inputfield
+  4: image
+  5: nav_dots
